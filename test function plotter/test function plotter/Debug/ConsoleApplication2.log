@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+D:\loay\master micro\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(51,23): warning C4018: '<': signed/unsigned mismatch
+D:\loay\master micro\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(99,21): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication2.vcxproj -> D:\loay\master micro\ConsoleApplication2\Debug\ConsoleApplication2.exe
