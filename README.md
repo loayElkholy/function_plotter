@@ -21,3 +21,6 @@ the program will generate three different error message depending on user input:
   
 also program can have any white spaces in f(x) field and x1 and x2(x ranges) can be in any order
 ![7](https://user-images.githubusercontent.com/40799479/147793746-f2b6490d-143f-4fe6-baba-33cda0e32319.PNG)
+
+# Executable link 
+https://drive.google.com/drive/folders/1BwCOfWHcFkfToVwuKOPpcMlzC7tyAKGk?usp=sharing
