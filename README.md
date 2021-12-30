@@ -2,7 +2,7 @@
 # it's sa simple gui program  built with c++ and Qt that calculate and plot any f(x) in a given ranges of x 
 the program will handel the precedence and associativity of operation for example:
   1) (x+2)*2 => x+2 will be evaluated first then it will be multiplied by 2
-  2) x-2*4 => 2*4 will be evaluated first then x - 8
+  2) x-2* 4 => 2*4 will be evaluated first then x - 8
 # snapshots of program 
 ![1](https://user-images.githubusercontent.com/40799479/147793503-2f4c5605-5f3b-48d6-84cc-6aa43427ec53.PNG)
 ![2](https://user-images.githubusercontent.com/40799479/147793507-cea4e3f6-57be-491d-a184-be935165b5a2.PNG)
