@@ -24,3 +24,6 @@ also program can have any white spaces in f(x) field and x1 and x2(x ranges) can
 
 # Executable link 
 https://drive.google.com/drive/folders/1BwCOfWHcFkfToVwuKOPpcMlzC7tyAKGk?usp=sharing
+
+# testing 
+unit testing functions program in test function plotter folder
