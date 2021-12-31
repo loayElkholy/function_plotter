@@ -33,7 +33,6 @@ private:
     QLineEdit *line_edit =new QLineEdit();
     QLineEdit *line_edit2 =new QLineEdit();
     QLineEdit *line_edit3 =new QLineEdit();
-    QLineEdit *text_edit =new QLineEdit();
     QWidget *widget= new QWidget() ;
     QHBoxLayout *main_layout =new QHBoxLayout();
     QVBoxLayout *vertical_layout =new QVBoxLayout();

@@ -339,6 +339,16 @@ void function_plotter::on_push_button_clicked()
 
 function_plotter::~function_plotter()
 {
+    delete line_edit ;
+    delete line_edit2 ;
+    delete line_edit3 ;
+    delete widget;
+    delete main_layout;
+    delete vertical_layout;
+    delete horizontal_layout;
+    delete pushButton;
+    delete custom_plot;
+    delete vertical_layout2;
     delete ui;
 }
 
